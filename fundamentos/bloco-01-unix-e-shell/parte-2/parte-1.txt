@@ -1,0 +1,57 @@
+# Exercício 1 e 2
+
+cd unix_tests/
+cat > skills2.txt
+Internet
+Unix
+Bash
+^C
+
+# Exercício 3
+
+cat >> skills2.txt 
+JS
+CSS
+HTML
+Git
+Git Hub
+^C
+
+# Exercício 4
+
+wc -l skills2.txt 
+
+# Exercício 5
+
+sort < skills2.txt |head -3 > top_skills.txt
+
+# Exercício 6
+
+cat > phrases2.txt
+layza
+mae
+pai
+rayssa
+^C
+
+# Exercício 7
+
+grep "br" phrases2.txt | wc -l
+
+# Exercício 8
+
+grep -v "br" phrases2.txt | wc -l
+
+# Exercício 9
+
+cat >> phrases2.txt 
+Bosnia
+Suica
+^C
+
+# Exercício 10
+cat phrases2.txt countries.txt > cat >> bunch_of_things.txt
+
+# Exercício 11
+
+sort bunch_of_things.txt

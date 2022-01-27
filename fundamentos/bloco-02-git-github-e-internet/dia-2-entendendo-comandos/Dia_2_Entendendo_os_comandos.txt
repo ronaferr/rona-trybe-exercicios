@@ -1,0 +1,28 @@
+# Exercício 2
+git status
+
+# Exercício 3
+git branch trybe-skills-changes
+git checkout trybe-skills-changes
+
+# Exercício 4
+code .
+git add trybe-skills.txt 
+git commit -m "adição de novas skills."
+git push -u origin trybe-skills-changes
+
+# Exercício 6
+git checkout master
+
+# Exercício 7
+git status
+
+# Exercício 8
+git branch trybe-skills-updates
+git checkout trybe-skills-updates
+
+# Exercício 9
+code .
+git add trybe-skills.txt 
+git commit -m "atualizando skills"
+git push -u origin trybe-skills-updates
