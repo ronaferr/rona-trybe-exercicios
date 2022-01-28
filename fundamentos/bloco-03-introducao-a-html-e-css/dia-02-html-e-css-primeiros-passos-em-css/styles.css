@@ -1,0 +1,14 @@
+h1 {color :orange; font-family: sans-serif;}
+        p {font-weight: 600;}
+        
+        li {font-style: oblique;
+        line-height: 200%;
+        text-align: center;
+        }
+        h1 {font-size: 65px}
+        .background1 {background-color: whitesmoke;}
+        body {font-size: 16px;}
+        p {font-size: 3em;}
+        #amarelo {background-color: yellow;}
+        #vermelho {background-color: red;}
+        #marrom {background-color: brown;}
