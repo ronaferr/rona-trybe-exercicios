@@ -1,0 +1,27 @@
+header, div, nav {border: 2px solid blue;}
+#sec1 {border:2px solid green;
+height: 320px;}
+
+header h1, h3 {text-align: center;
+}
+
+.menu {position: fixed;
+right: 5%;}
+
+.menu a {text-decoration: none;
+margin-right: 10px;
+}
+
+#lago {width: 100%;}
+
+#sec1 .fofo {float: left;}
+
+aside {padding: 05px;
+background-color: red;
+border:5px solid yellow;
+color: whitesmoke;
+width: 300px;
+}
+
+
+
