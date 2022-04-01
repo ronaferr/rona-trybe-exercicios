@@ -168,13 +168,13 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [ ] 24.2 - ORM - Associations
 - [ ] 24.3 - JWT - (JSON Web Token)
 - [ ] 24.4 - Testando API's com Teste de Integração
-- [ ] 24.5 - [Projeto - API de Blogs]()
+- [ ] 24.5 - Projeto - API de Blogs
 
 ##### Bloco 25: Deployment
 - [ ] 25.1 - Introdução - Deploy
 - [ ] 25.1 - Infraestrutura - Deploy com Heroku
 - [ ] 25.2 - Deploy Deploy & Heroku
-- [ ] 25.3 - [Projeto - Stranger Things]()
+- [ ] 25.3 - Projeto - Stranger Things
 
 ##### Bloco 26: TypeScript
 - [ ] 26.1 - Introdução - TypeScript
