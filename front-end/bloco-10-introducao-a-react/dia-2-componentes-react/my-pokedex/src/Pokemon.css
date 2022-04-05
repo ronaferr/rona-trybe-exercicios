@@ -1,0 +1,16 @@
+.card {
+    font-family: cursive;
+    border: 1px solid gainsboro;
+    border-radius: 10px;
+    display: flexbox;
+    flex-wrap: wrap;
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 2px 2px 2px gray;
+}
+
+.containerPokemon {
+    display: flex;
+    flex-wrap: wrap;
+}
