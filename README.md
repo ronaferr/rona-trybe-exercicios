@@ -45,7 +45,7 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 5.7 - (Bônus) Projeto - Adivinhe a Cor
 - [x] 5.7 - (Bônus) Projeto - Carta Misteriosa
 
-##### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo
+##### Bloco 6: [HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/ronaferr/rona-trybe-exercicios/tree/master/fundamentos/bloco-6-html-e-css-forms-flexbox-e-responsivo)
 - [x] 6.1 - HTML & CSS - Forms
 - [x] 6.2 - Bibliotecas JavaScript e Frameworks CSS
 - [x] 6.3 - Introdução - CSS Flexbox
@@ -54,20 +54,20 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 6.5 - CSS Responsivo - Mobile First
 - [x] 6.6 - Projeto - Trybewarts
 
-##### Bloco 7: Introdução à JavaScript ES6 e Testes Unitários
+##### Bloco 7: [Introdução à JavaScript ES6 e Testes Unitários](https://github.com/ronaferr/rona-trybe-exercicios/tree/master/fundamentos/bloco-7-introducao-a-javascript-es6-e-testes-unitarios)
 - [x] 7.1 - JavaScript ES6 - let, const, arrow functions e template literals
 - [x] 7.2 - JavaScript ES6 - Objects
 - [x] 7.3 - Testes unitários em JavaScript
 - [x] 7.4 - Projeto - JavaScript Testes Unitários
 
-##### Bloco 8: Higher Order Functions do JavaScript ES6
+##### Bloco 8: [Higher Order Functions do JavaScript ES6](https://github.com/ronaferr/rona-trybe-exercicios/tree/master/fundamentos/bloco-8-higher-order-functions-do-javascript-es6)
 - [x] 8.1 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
 - [x] 8.2 - JavaScript ES6 - Higher Order Functions - map e filter
 - [x] 8.3 - JavaScript ES6 - Higher Order Functions - reduce
 - [x] 8.4 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
 - [x] 8.5 - Projeto - Zoo functions
 
-##### Bloco 9: JavaScript e Testes Assíncronos
+##### Bloco 9: [JavaScript e Testes Assíncronos](https://github.com/ronaferr/rona-trybe-exercicios/tree/master/fundamentos/bloco-9-javascript-e-testes-assincronos)
 - [x] 9.1 - JavaScript Assíncrono e Callbacks
 - [x] 9.2 - JavaScript Assíncrono - Fetch API e async/await
 - [x] 9.3 - Jest - Testes Assíncronos
@@ -75,11 +75,11 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
-##### Bloco 10: Introdução à React
-- [ ] 10.1 - Introdução - Front-end
-- [ ] 10.1 - Introdução - React
-- [ ] 10.1 - 'Hello, world!' no React!
-- [ ] 10.2 - Componentes React
+##### Bloco 10: [Introdução à React](https://github.com/ronaferr/rona-trybe-exercicios/tree/master/front-end/bloco-10-introducao-a-react)
+- [x] 10.1 - Introdução - Front-end
+- [x] 10.1 - Introdução - React
+- [x] 10.1 - 'Hello, world!' no React!
+- [x] 10.2 - Componentes React
 - [ ] 10.3 - Projeto - Sistema Solar
 
 ##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
