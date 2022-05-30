@@ -42,7 +42,7 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 5.5 - Projeto - Arte com Pixels
 - [x] 5.6 - Projeto - Lista de tarefas
 - [x] 5.7 - (Bônus) Projeto - Meme Generator
-- [x] 5.7 - (Bônus) Projeto - Adivinhe a Cor
+- [x] 5.7 - [(Bônus) Projeto - Adivinhe a Cor](https://github.com/ronaferr/project-color-guess/blob/ronaldo-carlos-project-color-guess/README.md)
 - [x] 5.7 - (Bônus) Projeto - Carta Misteriosa
 
 ##### Bloco 6: [HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/ronaferr/rona-trybe-exercicios/tree/master/fundamentos/bloco-6-html-e-css-forms-flexbox-e-responsivo)
