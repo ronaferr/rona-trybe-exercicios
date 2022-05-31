@@ -31,7 +31,7 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 4.2 - JavaScript - Array e loop For
 - [x] 4.3 - JavaScript - Lógica de Programação e Algoritmos
 - [x] 4.4 - JavaScript - Objetos e funções
-- [x] 4.5 - Projeto - Playground Functions
+- [x] 4.5 - [Projeto - Playground Functions](https://github.com/ronaferr/project-playground-functions)
 
 ##### Bloco 5: [JavaScript: DOM, Eventos e Web Storage](https://github.com/ronaferr/rona-trybe-exercicios/tree/exercicios/5.1/fundamentos/bloco-5-javascript-dom-eventos-e-web-storage)
 - [x] 5.1 - JavaScript - DOM e seletores
