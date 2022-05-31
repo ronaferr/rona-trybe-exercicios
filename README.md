@@ -41,7 +41,7 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 5.5 - Fundamentos - JavaScript - Projetos
 - [x] 5.5 - [Projeto - Arte com Pixels](https://github.com/ronaferr/project-pixel-art)
 - [x] 5.6 - [Projeto - Lista de tarefas](https://github.com/ronaferr/project-todo-list)
-- [x] 5.7 - (Bônus) Projeto - Meme Generator
+- [x] 5.7 - [(Bônus) Projeto - Meme Generator](https://github.com/ronaferr/project-meme-generator)
 - [x] 5.7 - [(Bônus) Projeto - Adivinhe a Cor](https://github.com/ronaferr/project-color-guess/blob/ronaldo-carlos-project-color-guess/README.md)
 - [x] 5.7 - [(Bônus) Projeto - Carta Misteriosa](https://github.com/ronaferr/project-mistery-letter)
 
