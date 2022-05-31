@@ -52,7 +52,7 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 6.3 - CSS Flexbox - Parte 1
 - [x] 6.4 - CSS Flexbox - Parte 2
 - [x] 6.5 - CSS Responsivo - Mobile First
-- [x] 6.6 - Projeto - Trybewarts
+- [x] 6.6 - [Projeto - Trybewarts](https://github.com/ronaferr/project-trybewarts)
 
 ##### Bloco 7: [Introdução à JavaScript ES6 e Testes Unitários](https://github.com/ronaferr/rona-trybe-exercicios/tree/master/fundamentos/bloco-7-introducao-a-javascript-es6-e-testes-unitarios)
 - [x] 7.1 - JavaScript ES6 - let, const, arrow functions e template literals
