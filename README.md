@@ -71,7 +71,7 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 9.1 - JavaScript Assíncrono e Callbacks
 - [x] 9.2 - JavaScript Assíncrono - Fetch API e async/await
 - [x] 9.3 - Jest - Testes Assíncronos
-- [x] 9.4 - Projeto - Carrinho de Compras
+- [x] 9.4 - [Projeto - Carrinho de Compras](https://github.com/ronaferr/project-shopping-cart)
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
