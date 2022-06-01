@@ -1,4 +1,4 @@
-# Trybe - Exercícios
+# Trybe - Exercícios & Projetos
 
 Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/in/ronaldo-carlos-ferreira-9a8b48219/)__ durante minha tragetória na [Trybe](https://www.betrybe.com/) :rocket:
 
@@ -58,7 +58,7 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 7.1 - JavaScript ES6 - let, const, arrow functions e template literals
 - [x] 7.2 - JavaScript ES6 - Objects
 - [x] 7.3 - Testes unitários em JavaScript
-- [x] 7.4 - Projeto - JavaScript Testes Unitários
+- [x] 7.4 - [Projeto - JavaScript Testes Unitários](https://github.com/ronaferr/project-unit-tests)
 
 ##### Bloco 8: [Higher Order Functions do JavaScript ES6](https://github.com/ronaferr/rona-trybe-exercicios/tree/master/fundamentos/bloco-8-higher-order-functions-do-javascript-es6)
 - [x] 8.1 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
