@@ -80,21 +80,21 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 10.1 - Introdução - React
 - [x] 10.1 - 'Hello, world!' no React!
 - [x] 10.2 - Componentes React
-- [x] 10.3 - Projeto - Sistema Solar
+- [x] 10.3 - [Projeto - Sistema Solar](https://github.com/ronaferr/project-solar-system)
 
 ##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 - [x] 11.1 - Componentes com estado e eventos
 - [x] 11.2 - Formulários no React
-- [x] 11.3 - Projeto - Tryunfo
+- [x] 11.3 - [Projeto - Tryunfo](https://github.com/ronaferr/project-tryunfo)
 
 ##### Bloco 12: Ciclo de Vida de Componentes e React Router
 - [x] 12.1 - Ciclo de vida de componentes
 - [x] 12.2 - React Router
-- [x] 12.3 - Projeto - TrybeTunes
+- [x] 12.3 - [Projeto - TrybeTunes](https://github.com/ronaferr/project-trybetunes)
 
 ##### Bloco 13: Metodologias Ágeis
 - [x] 13.1 - Metodologias Ágeis
-- [x] 13.2 - Projeto - Frontend Online Store
+- [x] 13.2 - [Projeto - Frontend Online Store](https://github.com/ronaferr/project-frontend-online-store)
 
 ##### Bloco 14: Testes automatizados com React Testing Library
 - [x] 14.1 - RTL - Primeiros passos
@@ -108,16 +108,16 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 15.3 - Usando o Redux no React - Prática
 - [x] 15.4 - Usando o Redux no React - Actions Assíncronas
 - [x] 15.5 - Testes síncronos com React-Redux
-- [x] 15.6 - Projeto - Wallet
+- [x] 15.6 - [Projeto - Wallet](https://github.com/ronaferr/project-trybe-wallet)
 
 ##### Bloco 16: Projeto Jogo de Trivia
-- [x] 16.1 - Projeto - Jogo de Trivia
+- [x] 16.1 - [Projeto - Jogo de Trivia](https://github.com/ronaferr/project-trivia)
 
 ##### Bloco 17: Context API e React Hooks
 - [x] 17.1 - Context API do React
 - [x] 17.2 - React Hooks - useState e useContext
 - [x] 17.3 - React Hooks - useEffect e Hooks customizados
-- [ ] 17.4 - Projeto - StarWars Datatable com Context API e Hooks
+- [x] 17.4 - [Projeto - StarWars Datatable com Context API e Hooks](https://github.com/ronaferr/project-star-wars-planets)
 
 ##### Bloco 18: Pro[jeto App de Receitas
 - [ ] 18.1 - Projeto - App de Receitas
